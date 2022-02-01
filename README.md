@@ -12,4 +12,5 @@
 | 4 | [Определение перспективного тарифа для компании "Меглайн"](5_statistic_analysis) | Исследовательский анализ поведения клиентов, выбор перспективного тарифа для компании | `pandas` `scipy` `numpy` `maplotlib` |
 | 5 | [Определение успешной игры](7_complex_proj) | Выявление закономерностей, определяющих успешность игры | `pandas` `scipy` `numpy` `maplotlib` |
 | 6 | [Рекомендация тарифов](8_ml_basics) | Обучение модели классификации для определения подходящего тарифа | `pandas` `scikit-learn` `seaborn` `numpy` |
-| 7 | [Отток клиентов](9_supervised_learning) | Обучение модели для прогнозирования, уйдёт клиент из банка в ближайшее время или нет | `pandas` `numpy` `seaborn` `sklearn` `category_encoders` `matplotlib` |
+| 7 | [Отток клиентов](9_supervised_learning) | Обучение модели прогнозирования: уйдёт клиент из банка в ближайшее время или нет | `pandas` `numpy` `seaborn` `sklearn` `category_encoders` `matplotlib` |
+| 8 | [Выбор локации для скважины](10_ml_industry) | Определение региона, где добыча нефти принесёт наибольшую прибыль | `pandas` `numpy` `seaborn` `sklearn` `collections` `scipy` `maplotlib` |
