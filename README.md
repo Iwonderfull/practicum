@@ -14,3 +14,4 @@
 | 6 | [Рекомендация тарифов](8_ml_basics) | Обучение модели классификации для определения подходящего тарифа | `pandas` `scikit-learn` `seaborn` `numpy` |
 | 7 | [Отток клиентов](9_supervised_learning) | Обучение модели прогнозирования: уйдёт клиент из банка в ближайшее время или нет | `pandas` `numpy` `seaborn` `sklearn` `category_encoders` `matplotlib` |
 | 8 | [Выбор локации для скважины](10_ml_industry) | Определение региона, где добыча нефти принесёт наибольшую прибыль | `pandas` `numpy` `seaborn` `sklearn` `collections` `scipy` `maplotlib` |
+| 9 | [«Цифра»](11_complex_proj) | Разработка прототипа модели, которая должна предсказать коэффициент восстановления золота из золотосодержащей руды | `pandas` `numpy` `seaborn` `matplotlib` `sklearn` `scipy` |
